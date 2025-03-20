@@ -76,5 +76,5 @@ Thanks a lot for spending your time helping DripUI grow. Thanks a lot! Keep bein
 
 ## 🙏🏽 Support
 
-This project needs a star️ from you. Don't forget to leave a star✨
+This project needs a star️ from you. Don't forget to leave a star
 
